@@ -8,5 +8,5 @@ $(document).ready(function(){
 
 
 function doSomething() {
-	console.log("do something")
+	console.log("do something with some tolk")
 }
