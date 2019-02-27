@@ -5,3 +5,8 @@ $(document).ready(function(){
  	},1000)
  })
 });
+
+
+function doSomething() {
+	console.log("do something")
+}
